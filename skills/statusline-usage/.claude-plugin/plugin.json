@@ -1,0 +1,11 @@
+{
+  "name": "statusline-usage",
+  "description": "Display Claude API usage limits (session 5hr and weekly) in your status line",
+  "version": "1.0.0",
+  "author": {
+    "name": "abel30567",
+    "url": "https://github.com/abel30567"
+  },
+  "repository": "https://github.com/abel30567/claude-code-skills",
+  "license": "MIT"
+}

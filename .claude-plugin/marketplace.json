@@ -4,5 +4,18 @@
           "name": "abel30567",
           "url": "https://github.com/abel30567"
     },
-    "plugins": []
+    "plugins": [
+        {
+            "name": "statusline-usage",
+            "source": "./skills/statusline-usage",
+            "description": "Display Claude API usage limits (session 5hr and weekly) in your status line. Includes PTY-based scraper with cross-platform scheduler support.",
+            "version": "1.0.0",
+            "author": {
+                "name": "abel30567"
+            },
+            "homepage": "https://github.com/abel30567/claude-code-skills",
+            "repository": "https://github.com/abel30567/claude-code-skills",
+            "license": "MIT"
+        }
+    ]
 }

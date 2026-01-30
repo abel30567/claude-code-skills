@@ -1,0 +1,3 @@
+# Claude Usage Scraper - runs every 15 minutes
+# Install: crontab -e, then paste this line (update paths)
+*/15 * * * * __PYTHON_PATH__ __SCRAPER_PATH__ --quiet >> ~/.claude-statusline-usage/cron.log 2>&1
